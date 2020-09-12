@@ -15,7 +15,7 @@ class GitActionsApplicationTests {
     @Test
     void contextLoads() {
         int result = myFeature.sumTwoNumbers(1, 2);
-        Assertions.assertEquals(3, result);
+        Assertions.assertEquals(4, result);
     }
 
 }
